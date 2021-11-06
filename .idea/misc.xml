@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/drawable-v24/background_btn.xml" value="0.3005128205128205" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/drawable-v24/edittext_background.xml" value="0.3005128205128205" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_busquedapaciente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_detalles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_detallespaciente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_edit.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_fetch.xml" value="0.25" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_fetchdetail.xml" value="0.5" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_list_pacientes.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_notificacion.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_presentacion.xml" value="0.18" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/activity_utilidades.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/StudioProjects/AppTObesity/app/src/main/res/layout/list_layout_pacientes.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
